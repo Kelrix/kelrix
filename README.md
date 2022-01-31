@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, there 👋
+
+    😎 I'm a digital nomad, learn Python, JS, GO.
+    🚀 I am currently working on tm market parser
+    💡 Most of the time I'm writing and learning Python, JS, GO, and ethical hacking.
+    ✏️ I am looking for practice, so please contact me in private messages if you have projects to do!
+    ⚡️ I DON'T HATE PEOPLE... I JUST LOVE CODING MORE!
 
 <!--
 **Kelrix/kelrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
